@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">currency comparator</string>
+    <string name="alert_dialog_header">PARA MİKTARI HESAPLA</string>
+    <string name="alert_dialog_edittext">PARA DEĞERİ GİRİNİZ</string>
+    <string name="alert_dialog_return_main_page">ANA SAYFAYA DÖN</string>
+    <string name="alert_dialog_return_last_page">EN SON SEÇİLEN SAYFAYA DÖN</string>
+    <string name="alert_dialog_enter">DEĞER</string>
+    <string name="alert_dialog_value">GİRİNİZ</string>
+    <string name="alert_dialog_result_text">HESAPLAMAK İÇİN DEĞER GİRİNİZ</string>
+    <string name="info_activity_introduction">
+UYGULAMA ÜLKELERİN PARA BİRİMLERİNİN GÜNCEL DEĞERİNİ ÖĞRENMEK İÇİN ÜRETİLMİŞTİR. ONLARI KARŞILAŞTIRABİLİRSİNİZ VE HESAPLAYABİLİRSİNİZ.
+DEĞERLER GÜNLÜK GÜNCELLENİYOR</string>
+    <string name="menu_info">info</string>
+    <string name="TRY">TÜRKİYE</string>
+    <string name="USD">"AMERİKA BİRLEŞİK DEVLETLERİ "</string>
+    <string name="EURG">ALMANYA</string>
+    <string name="AED">BİRLEŞİK ARAP EMİRLİKLERİ</string>
+    <string name="ARS">ARJANTİN</string>
+    <string name="AUD">AVUSTURALYA</string>
+    <string name="BGN">BULGARİSTAN</string>
+    <string name="BRL">BRAZİLYA</string>
+    <string name="CAD">KANADA</string>
+    <string name="CHF">İSVİÇRE</string>
+    <string name="CLP">ŞİLİ</string>
+    <string name="CNY">ÇİN</string>
+    <string name="COP">KOLOMBİYA</string>
+    <string name="CZK">ÇEK CUMHURİYETİ</string>
+    <string name="DKK">DANİMARKA</string>
+    <string name="EGP">MISIR</string>
+    <string name="FIJI">FİJİ</string>
+    <string name="GBP">İNGİLTERE</string>
+    <string name="HKD">HONG KONG</string>
+    <string name="HRK">HIRVATİSTAN</string>
+    <string name="HUF">MACARİSTAN</string>
+    <string name="IDR">ENDONEZYA</string>
+    <string name="ILS">İSRAİL</string>
+    <string name="INR">HİNDİSTAN</string>
+    <string name="ISK">İZLANDA</string>
+    <string name="JPY">JAPONYA</string>
+    <string name="KZT">KAZAKİSTAN</string>
+    <string name="MXN">MEXİCA</string>
+    <string name="MYR">MALEZYA</string>
+    <string name="NOK">NORVEÇ</string>
+    <string name="NZD">YENİ ZELLANDA</string>
+    <string name="PAB">PANAMA</string>
+    <string name="PEN">PERU</string>
+    <string name="PHP">FİLİPİNLER</string>
+    <string name="PKR">PAKİSTAN</string>
+    <string name="PLN">POLONYA</string>
+    <string name="PYG">PARAGUAY</string>
+    <string name="RON">ROMANYA</string>
+    <string name="RUB">RUSYA</string>
+    <string name="SAR">SUUDİ ARABİSTAN</string>
+    <string name="SEK">İSVEÇ</string>
+    <string name="SGD">SİNGAPORE</string>
+    <string name="THB">TAYLAND</string>
+    <string name="TWD">TAYVAN</string>
+    <string name="UAH">UKRAYNA</string>
+    <string name="UYU">URUGUAY</string>
+    <string name="ZAR">KUZEY AFRİKA</string>
+    <string name="EUR">AVRUPA BİRLİĞİ</string>
+
+</resources>
